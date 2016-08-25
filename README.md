@@ -9,3 +9,12 @@
 
 ''TODO'' 
 Test AMQP
+
+**Twelve Factor app cloud ready**
+
+**Configuration Service**
+
+**Discovery Service**
+
+**Circuit Breakers**
+
