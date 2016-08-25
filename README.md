@@ -3,6 +3,7 @@
 #2.Spring cloud eureka serviceregistory and discovery
 #3.Load balancing using ribbon
 #4.Hystrix circuit breaker
+#5.Google Protocol Buffers
 
 [![Join the chat at https://gitter.im/ankit-gits-spring-cloud/Lobby](https://badges.gitter.im/ankit-gits-spring-cloud/Lobby.svg)](https://gitter.im/ankit-gits-spring-cloud/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -10,11 +11,4 @@
 ''TODO'' 
 Test AMQP
 
-**Twelve Factor app cloud ready**
-
-**Configuration Service**
-
-**Discovery Service**
-
-**Circuit Breakers**
 
