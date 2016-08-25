@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Setter
 @Component
 @ConfigurationProperties("myapp.client")
-public class MyAppConfig {
+public class MyAppConfigProperties {
 
     private String test;
 }

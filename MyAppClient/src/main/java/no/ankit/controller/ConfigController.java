@@ -1,6 +1,6 @@
 package no.ankit.controller;
 
-import no.ankit.config.MyAppConfig;
+import no.ankit.config.MyAppConfigProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ConfigController {
 
     @Autowired
-    private MyAppConfig appConfig;
+    private MyAppConfigProperties appConfig;
 
     @RequestMapping(path = "/val")
     public ResponseEntity<?> getVal(){
