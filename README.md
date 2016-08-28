@@ -1,5 +1,6 @@
 # Following project includes::
 
+**TODO**:
 # API Gateway : Spring Cloud Zuul
 # Service registry : Eureka from Spring Cloud, Zookeeper,
 # Load balancing: combination of Ribbon, Eureka, and Zuul
@@ -7,7 +8,7 @@
 # Communication : REST / HTTP (Sync), AMQP (ASYNC) Rabbit MQ  
 # Reseliance : Hystrix circuit breaker 
 
-**TODO**
+**Future**
 # Data lake : Spring Cloud Data Flow, Flume, and Kafka are used to consume data
 # Data lake storage : HDFS, Cassandra
 
