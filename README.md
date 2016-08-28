@@ -1,6 +1,7 @@
 # Following project includes::
 #1.Spring cloud config server
 #2.Spring cloud eureka serviceregistory and discovery
+# Spring Cloud Zuul
 #3.Load balancing using ribbon
 #4.Hystrix circuit breaker
 #5.Google Protocol Buffers
